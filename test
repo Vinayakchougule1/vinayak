@@ -1,0 +1,4 @@
+VPC name => my-vpc
+CIDR Block => 10.97.224.0/20
+First IP => 10.97.224.0
+Last IP => 10.97.239.255
